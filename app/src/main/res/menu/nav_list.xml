@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_share"
+        android:icon="@drawable/share"
+        android:title="@string/share" />
+    <item
+        android:id="@+id/item_mycollect"
+        android:icon="@drawable/collection"
+        android:title="@string/mycollect" />
+    <item
+        android:id="@+id/item_edit"
+        android:icon="@drawable/edit"
+        android:title="@string/edit" />
+    <item
+        android:id="@+id/item_del"
+        android:icon="@drawable/delete"
+        android:title="@string/del" />
+</menu>
